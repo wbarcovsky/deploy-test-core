@@ -1,11 +1,17 @@
 {
     "name": "goodwin/core",
     "description": "Test core module",
+    "keywords": ["git"],
+    "homepage": "http://www.github.com/sebastianbergmann/git",
     "authors": [
         {
             "name": "G00DWIN",
             "email": "wbarcovsky@yandex.ru"
         }
     ],
-    "require": {}
+     "autoload": {
+        "psr-0": {
+            "TestDeploy": "src/"
+        }
+    }
 }
