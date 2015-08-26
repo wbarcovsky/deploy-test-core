@@ -1,0 +1,11 @@
+{
+    "name": "goodwin/core",
+    "description": "Test core module",
+    "authors": [
+        {
+            "name": "G00DWIN",
+            "email": "wbarcovsky@yandex.ru"
+        }
+    ],
+    "require": {}
+}
